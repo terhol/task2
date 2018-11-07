@@ -47,9 +47,9 @@ Rozumět pojmům rozhraní, konstruktor, přetěžování metod/konstruktorů, c
         informace o cestujícím.
     -   Při správném řešení by se měl na výstupu objevit následující text:
 
-        Travelling towards Reckovice
-        Travelling towards Bystrc-Ecerova
-        I'm not travelling  
+            Travelling towards Reckovice
+            Travelling towards Bystrc-Ecerova
+            I'm not travelling  
 
 ### Zadání na doma (3 body)
 

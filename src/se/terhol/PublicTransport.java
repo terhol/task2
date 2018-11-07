@@ -8,7 +8,6 @@ package se.terhol;
  * @author Jan Papousek
  * @author Radek Oslejsek
  */
-
 public interface PublicTransport {
     /**
      * Returns the target end station of the public transport vehicle.
